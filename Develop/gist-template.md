@@ -1,10 +1,7 @@
-# Title (replace with your title)
+# Regular Expressions Tutorial 
 
-Introductory paragraph (replace this with your text)
-
-## Summary
-
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+A regex, short for regular expression, is a powerful and flexible tool used in programming to search, match, and manipulate strings of text based on specific patterns. Regex allows you to define patterns of characters and symbols to describe what constitutes a valid or matching string.
+Today I will be explaining and breaking down a regular expression that will help us match a user's email.
 
 ## Table of Contents
 
